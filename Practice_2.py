@@ -23,3 +23,4 @@ mymod.countChars('example.txt')
 
 mymod.test('example.txt')
 
+print("hello")
